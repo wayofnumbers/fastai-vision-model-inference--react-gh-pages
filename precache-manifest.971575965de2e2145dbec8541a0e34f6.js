@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/fastai-vision-model-inference--react-gh-pages/static/js/runtime~main.8f2457f2.js"
   },
   {
-    "revision": "1e8e09298acdcc29fba7",
+    "revision": "7074a2bce2984d289a97",
     "url": "/fastai-vision-model-inference--react-gh-pages/static/js/main.248ec675.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/fastai-vision-model-inference--react-gh-pages/static/js/2.cc584ecf.chunk.js"
   },
   {
-    "revision": "1e8e09298acdcc29fba7",
-    "url": "/fastai-vision-model-inference--react-gh-pages/static/css/main.56c133eb.chunk.css"
+    "revision": "7074a2bce2984d289a97",
+    "url": "/fastai-vision-model-inference--react-gh-pages/static/css/main.0e21f547.chunk.css"
   },
   {
-    "revision": "802487b2bcbffa38377a837e6914dc22",
+    "revision": "d1f8dd619633189cbf3e7cd6736c9774",
     "url": "/fastai-vision-model-inference--react-gh-pages/index.html"
   }
 ];
