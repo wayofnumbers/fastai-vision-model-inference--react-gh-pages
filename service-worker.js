@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fastai-vision-model-inference--react-gh-pages/precache-manifest.64eceb8948c79c3c2062de46ab7b2a0f.js"
+  "/fastai-vision-model-inference--react-gh-pages/precache-manifest.86aa6ad8d7de86c394cb34bdf4e887d1.js"
 );
 
 workbox.clientsClaim();
